@@ -18,11 +18,9 @@
 ### Tools
 - Visual Studio
 
-## GitHub Stats
+## GitHub Stats & Top Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeybyte&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeybyte&layout=compact&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeybyte&show_icons=true&hide_border=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeybyte&layout=compact&hide_border=true&theme=radical)
 
 ---
 
