@@ -18,8 +18,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=codeybyte&show_icons=true&hide_border=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeybyte&layout=compact&hide_border=true&theme=radical">
 </p>
-
----
-
-<p align="center">
-  Th
