@@ -12,15 +12,6 @@
 
 ---
 
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  🌱 Currently learning <strong>[Technology or Programming Language]</strong><br>
-  👯 Looking to collaborate on <strong>open source projects</strong><br>
-  💬 Ask me about <strong>Topics of expertise</strong><br>
-  📫 Reach me at <strong>[your_email@example.com]</strong>
-</p>
-
 <h2 align="center">GitHub Stats & Top Languages</h2>
 
 <p align="center">
