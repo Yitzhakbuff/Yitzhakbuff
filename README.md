@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://twitter.com/your_username"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/your_username?style=social"></a>
   <a href="https://www.linkedin.com/in/your_username/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=social&logo=linkedin"></a>
-  <a href="https://github.com/your_username"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/your_username?style=social"></a>
+  <a href="https://github.com/CodeyByte"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/your_username?style=social"></a>
 </p>
 
 <!-- About me section -->
