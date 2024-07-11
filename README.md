@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/i_like-you-blue">
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/tu_canal](https://www.youtube.com/@codeybyte">
+  <a href="[https://www.youtube.com/@codeybyte">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white">
   </a>
 </p>
