@@ -9,9 +9,12 @@
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/i_like-you-blue">
-  [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tu_canal)
 </p>
-
+<p align="center">
+  <a href="https://www.youtube.com/tu_canal](https://www.youtube.com/@codeybyte">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white">
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeybyte&show_icons=true&hide_border=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeybyte&layout=compact&hide_border=true&theme=radical">
