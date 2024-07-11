@@ -1,69 +1,69 @@
-<!-- Encabezado con imagen de portada -->
+<!-- Header with cover image -->
 ![Header](https://yourimageurl.com/header.png)
 
-<h1 align="center">Hi </h1>
-<h3 align="center">Desarrollador apasionado por la tecnología y la innovación</h3>
+<h1 align="center">Hi there! I'm [Your Name] 👋</h1>
+<h3 align="center">A passionate developer driven by technology and innovation</h3>
 
-<!-- Badges de redes sociales y tecnologías -->
+<!-- Social media and technology badges -->
 <p align="center">
-  <a href="https://twitter.com/tu_usuario"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tu_usuario?style=social"></a>
-  <a href="https://www.linkedin.com/in/tu_usuario/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=social&logo=linkedin"></a>
-  <a href="https://github.com/tu_usuario"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/tu_usuario?style=social"></a>
+  <a href="https://twitter.com/your_username"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/your_username?style=social"></a>
+  <a href="https://www.linkedin.com/in/your_username/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=social&logo=linkedin"></a>
+  <a href="https://github.com/your_username"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/your_username?style=social"></a>
 </p>
 
-<!-- Sección Acerca de mí -->
-## Acerca de mí
+<!-- About me section -->
+## About Me
 
-- 🌱 Actualmente estoy aprendiendo **[Tecnología o Lenguaje de Programación]**
-- 👯 Estoy buscando colaborar en **proyectos de código abierto**
-- 🤔 Busco ayuda con **[Tema en el que necesitas ayuda]**
-- 💬 Pregúntame sobre **[Temas de especialización]**
-- 📫 Cómo contactarme: **[tu_correo@ejemplo.com]**
-- ⚡ Dato curioso: **[Un dato interesante sobre ti]**
+- 🌱 I’m currently learning **[Technology or Programming Language]**
+- 👯 I’m looking to collaborate on **open source projects**
+- 🤔 I’m looking for help with **[Topic you need help with]**
+- 💬 Ask me about **[Topics of expertise]**
+- 📫 How to reach me: **[your_email@example.com]**
+- ⚡ Fun fact: **[An interesting fact about you]**
 
-<!-- Sección de habilidades -->
-## Habilidades
+<!-- Skills section -->
+## Skills
 
-### Lenguajes de Programación
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white">
-  <!-- Agrega más iconos según tus habilidades -->
+  <!-- Add more icons based on your skills -->
 </p>
 
-### Tecnologías y Herramientas
+### Technologies and Tools
 <p>
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=white">
-  <!-- Agrega más iconos según tus habilidades -->
+  <!-- Add more icons based on your skills -->
 </p>
 
-<!-- Sección de proyectos destacados -->
-## Proyectos Destacados
+<!-- Featured projects section -->
+## Featured Projects
 
-- [Proyecto 1](https://github.com/tu_usuario/proyecto1): Descripción breve del proyecto.
-- [Proyecto 2](https://github.com/tu_usuario/proyecto2): Descripción breve del proyecto.
-- [Proyecto 3](https://github.com/tu_usuario/proyecto3): Descripción breve del proyecto.
+- [Project 1](https://github.com/your_username/project1): Brief description of the project.
+- [Project 2](https://github.com/your_username/project2): Brief description of the project.
+- [Project 3](https://github.com/your_username/project3): Brief description of the project.
 
-<!-- Sección de estadísticas de GitHub -->
-## Estadísticas de GitHub
+<!-- GitHub stats section -->
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&hide_border=true&theme=radical" />
 </p>
 
-<!-- Pie de página con agradecimiento -->
+<!-- Footer with thank you note -->
 ---
 
 <p align="center">
-  <i>¡Gracias por visitar mi perfil!</i>
+  <i>Thanks for visiting my profile!</i>
   <br>
-  <i>¡No dudes en <a href="mailto:tu_correo@ejemplo.com">contactarme</a> si tienes alguna pregunta o solo quieres saludar!</i>
+  <i>Feel free to <a href="mailto:your_email@example.com">contact me</a> if you have any questions or just want to say hi!</i>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tu_usuario.tu_usuario" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=your_username.your_username" alt="visitor badge"/>
 </p>
