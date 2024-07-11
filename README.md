@@ -1,31 +1,41 @@
 <!-- Header with cover image -->
-![Header](https://yourimageurl.com/header.png)
+<p align="center">
+  <img src="https://yourimageurl.com/header.png">
+</p>
 
-# Hi 👋
+<h1 align="center">Hi 👋</h1>
 
-## About Me
+<h2 align="center">About Me</h2>
 
-- 🌱 Currently learning **[Technology or Programming Language]**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **[Topics of expertise]**
-- 📫 Reach me at **[your_email@example.com]**
+<p align="center">
+  🌱 Currently learning <strong>[Technology or Programming Language]</strong><br>
+  👯 Looking to collaborate on <strong>open source projects</strong><br>
+  💬 Ask me about <strong>Topics of expertise</strong><br>
+  📫 Reach me at <strong>[your_email@example.com]</strong>
+</p>
 
-## Skills
+<h2 align="center">Skills</h2>
 
-### Programming Languages
-<p>
+<p align="center">
+  <strong>Programming Languages:</strong><br>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-### Tools
-- Visual Studio
+<p align="center">
+  <strong>Tools:</strong><br>
+  Visual Studio
+</p>
 
+<h2 align="center">GitHub Stats & Top Languages</h2>
 
-## GitHub Stats & Top Languages
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeybyte&show_icons=true&hide_border=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeybyte&layout=compact&hide_border=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeybyte&show_icons=true&hide_border=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeybyte&layout=compact&hide_border=true&theme=radical">
+</p>
 
 ---
 
-Thanks for visiting my profile! Feel free to [contact me](mailto:your_email@example.com) if you have any questions or just want to say hi!
+<p align="center">
+  Thanks for visiting my profile! Feel free to <a href="mailto:your_email@example.com">contact me</a> if you have any questions or just want to say hi!
+</p>
