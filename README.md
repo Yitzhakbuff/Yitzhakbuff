@@ -1,10 +1,8 @@
-<!-- Header with cover image -->
 ![Header](https://yourimageurl.com/header.png)
 
-<h1 align="center">Hi there! I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate developer driven by technology and innovation</h3>
+<h1 align="center">Hi</h1>
+<h3 align="center">An unskilled developer</h3>
 
-<!-- Social media and technology badges -->
 <p align="center">
   <a href="https://twitter.com/your_username"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/your_username?style=social"></a>
   <a href="https://www.linkedin.com/in/your_username/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=social&logo=linkedin"></a>
