@@ -13,10 +13,14 @@
 ## Skills
 
 ### Programming Languages
-- C#
+<p>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+</p>
 
 ### Tools
 - Visual Studio
+
 
 ## GitHub Stats & Top Languages
 
