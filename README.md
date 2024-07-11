@@ -1,6 +1,6 @@
 <!-- Header with cover image -->
 <p align="center">
-  <img src="https://imgur.com/b16qhpm.png" width="400px">
+  <img src="https://imgur.com/b16qhpm.png" width="200px">
 </p>
 
 <h1 align="center">Hi 👋</h1>
