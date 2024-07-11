@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/any_text-you_like-blue">
 </p>
 
 <p align="center">
