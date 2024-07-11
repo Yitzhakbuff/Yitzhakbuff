@@ -1,7 +1,7 @@
 <!-- Encabezado con imagen de portada -->
 ![Header](https://yourimageurl.com/header.png)
 
-<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hi </h1>
 <h3 align="center">Desarrollador apasionado por la tecnología y la innovación</h3>
 
 <!-- Badges de redes sociales y tecnologías -->
