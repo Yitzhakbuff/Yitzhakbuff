@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
----
 
 <h2 align="center">GitHub Stats & Top Languages</h2>
 
