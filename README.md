@@ -17,16 +17,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yitzhakbuff&show_icons=true&hide_border=true&bg_color=gray&title_color=cyan&icon_color=cyan&text_color=white&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yitzhakbuff&layout=compact&hide_border=true&bg_color=gray&title_color=cyan&icon_color=cyan&text_color=white&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yitzhakbuff&show_icons=true&hide_border=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yitzhakbuff&layout=compact&hide_border=true&theme=radical">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yitzhakbuff&theme=graywhite&hide_border=true&background=gray&stroke=cyan&ring=cyan&fire=cyan&currStreakLabel=white">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yitzhakbuff&theme=radical&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Yitzhakbuff&theme=graywhite&bg_color=gray&line=cyan&point=cyan&area=true&color=cyan">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Yitzhakbuff&theme=redical">
 </p>
