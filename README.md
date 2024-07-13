@@ -2,7 +2,7 @@
 <p align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://imgur.com/b16qhpm.png" width="120px">
   <a href="https://github.com/sop4s">
-    <img src="https://imgur.com/Lkw2fPo.png" width="130px" style="transform: scaleX(-1);">
+    <img src="https://imgur.com/nC3lhOd.png" width="95px" style="transform: scaleX(-1);">
   </a>
 </p>
 
