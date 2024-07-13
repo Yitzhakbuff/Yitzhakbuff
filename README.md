@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Yitzhakbuff</h1>
+<h1 align="center">Hi yia</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white">
