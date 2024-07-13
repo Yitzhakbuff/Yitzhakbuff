@@ -3,7 +3,7 @@
   <img src="https://imgur.com/b16qhpm.png" width="120px">
 </p>
 
-<h1 align="center">Hi 👋, I'm Yitzhakbuff</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
